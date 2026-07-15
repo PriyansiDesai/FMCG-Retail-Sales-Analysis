@@ -8,6 +8,7 @@ Before writing that down, I checked one more thing — was this really about the
 
 So the real finding wasn't "Tier 3 is a stronger market." It was **"Tier 1 and Tier 2 have never actually been tested with the stronger format."** That's a different, more useful conclusion — and a good reminder that a number and an insight aren't the same thing.
 
+Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZWQ4NWQ5ZWMtNzIwOC00YjVhLWFlMmMtOTczM2U0ODQ1MWUwIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 ![Dashboard Screenshot](fmcgsales_dashboard.png)
 ---
 
